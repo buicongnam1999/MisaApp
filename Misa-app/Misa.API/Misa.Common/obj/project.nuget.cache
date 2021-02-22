@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TVu07Jxfq3M4Yw+Wuk92AXJZXxGmvJUyWYWFMO+uhnH8I4xxuc/UDuVSDgoeCIs7WbAlzAeNpQ/ozdJaa/Q+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bui Cong Nam\\Desktop\\Misa-api\\Misa.API\\Misa.Common\\Misa.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bui Cong Nam\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

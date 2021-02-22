@@ -1,0 +1,11 @@
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.deps.json
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.dll
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\bin\Debug\netcoreapp3.1\Misa.Common.pdb
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.csprojAssemblyReference.cache
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.Properties.Resources.resources
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.csproj.GenerateResource.cache
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.AssemblyInfoInputs.cache
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.AssemblyInfo.cs
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.csproj.CoreCompileInputs.cache
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.dll
+C:\Users\Bui Cong Nam\Desktop\Misa-api\Misa.API\Misa.Common\obj\Debug\netcoreapp3.1\Misa.Common.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Misa.Common\Misa.Common.csproj" />
+    <ProjectReference Include="..\Misa.DataLayer\Misa.DataLayer.csproj" />
+  </ItemGroup>
+
+</Project>
